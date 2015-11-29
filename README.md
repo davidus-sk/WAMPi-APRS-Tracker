@@ -1,2 +1,3 @@
-# WAMPi-APRS-Tracker
-Who Ate My Pi APRS Tracker
+# Who Ate My Pi (WAMPi) APRS Tracker
+
+Still work in progress
